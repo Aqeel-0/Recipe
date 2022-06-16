@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family:sans-serif;
+}
+
+h3{
+    margin-bottom: 20px;
+}
+.App{
+    width: 80%;
+    margin: auto;
+    
+}
